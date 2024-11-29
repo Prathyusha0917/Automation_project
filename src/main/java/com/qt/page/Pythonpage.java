@@ -6,6 +6,7 @@ public class Pythonpage {
 		// TODO Auto-generated method stub
 		System.out.println("Prathyusha");
 		System.out.println("Divya");
+		System.out.println("Hishitha");
 	}
 
 }
